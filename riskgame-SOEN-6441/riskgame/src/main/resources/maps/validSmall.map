@@ -1,0 +1,32 @@
+; Yura Mamyrin
+; Risk Map
+
+; Risk validSmall Game Map
+; Dimensions: 677 x 425 Pixels
+
+; Made by Zankhanaben Patel
+;         Koshaben Patel
+;         Piyush Thummar
+;         Raj Mistry
+;         Jaswanth Banavathu
+
+name validSmall map
+
+[files]
+pic world_pic.jpg
+map world_map.gif
+crd risk.cards
+prv world.jpg
+
+[continents]
+Asia 1 none
+north 1 none
+
+[countries]
+1 india 1 0 0
+2 china 2 0 0
+
+[borders]
+1 2
+2 1
+
